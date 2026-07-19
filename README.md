@@ -7,3 +7,4 @@ Includes Learning, Certifications and projects
 
 2. Introduction to AI concepts
  https://learn.microsoft.com/api/achievements/share/en-us/TejashwiniVadeghar-1507/ABTNMSU7?sharingId=816309F74288AE3F
+[Uploading Introduction to AI concepts.pdf…]()
