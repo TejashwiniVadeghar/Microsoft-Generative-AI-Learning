@@ -12,3 +12,8 @@ Includes Learning, Certifications and projects
 
    [Introduction to AI concepts.pdf](https://github.com/user-attachments/files/30167855/Introduction.to.AI.concepts.pdf)
 
+3. Use AI for everyday tasks
+   https://learn.microsoft.com/api/achievements/share/en-us/TejashwiniVadeghar-1507/ABCK4WQ7?sharingId=816309F74288AE3F
+   [Use AI for everyday tasks - Microsoft Certification.pdf](https://github.com/user-attachments/files/31262234/Use.AI.for.everyday.tasks.-.Microsoft.Certification.pdf)
+
+
